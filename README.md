@@ -15,11 +15,11 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
 ## Screenshots
-<img src="assets/bmi-first.jpg" width="250">
-
-<img src="assets/bmi-second.jpg" width="250">
+<p >
+<img src="assets/bmi-first.jpg" hspace=70 width="250"> 
+<img src="assets/bmi-second.jpg" hspace=50 width="250">   
+  </p>
 
 ## Gif
 <img src="assets/bmi-record.gif" width="250">
